@@ -8,4 +8,8 @@
 🥅 2021 Goals: Learn Backend, Advanced in Flutter
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayeemCseMu)](https://github.com/NayeemCseMu/github-readme-stats)
+
+---
 [![Nayeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeemCseMu)](https://github.com/NayeemCseMu/github-readme-stats)
+
