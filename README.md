@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayeemcsemu&label=Profile%20views&color=0e75b6&style=flat" alt="nayeemcsemu" /> </p>
 
-- 🔭 I’m currently working on **flutter**
+- 🔭 I’m currently working on **flutter** | **native-android**
 
 - 🌱 I’m currently learning **laravel**
 
